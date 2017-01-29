@@ -1,0 +1,11 @@
+# Site settings
+title: JobsLite Docs
+description: >
+  The official documentation of the Sponge JobsLite plugin.
+baseurl: "/JobsLiteDocs"
+github_username:  FlibioStudio
+inception_year: 2017
+current_year: 2017
+
+# Build settings
+markdown: kramdown
