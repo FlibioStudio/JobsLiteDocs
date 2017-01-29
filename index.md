@@ -13,15 +13,15 @@ through an easy to use in-game interface, which means that editing files is not 
 ### Features
 
 - Drag & Drop Installation
- - Just drop JobsLite into your "mods" folder with Sponge and start your server
+    - Just drop JobsLite into your "mods" folder with Sponge and start your server
 - Multi-Threaded
- - Portions of JobsLite are multi-threaded to give you even better performance
+    - Portions of JobsLite are multi-threaded to give you even better performance
 - Translatable
- - JobsLite allows you to customize every message sent to the player
+    - JobsLite allows you to customize every message sent to the player
 - MySQL Support
- - JobsLite can store job data in a MySQL database
+    - JobsLite can store job data in a MySQL database
 - Easy to use job management
- - JobsLite comes with an easy to use chat interface for job management, so no file editing is necessary
+    - JobsLite comes with an easy to use chat interface for job management, so no file editing is necessary
 
 ### Downloads
 
