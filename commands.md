@@ -7,6 +7,10 @@ JobsLite has many commands, each with its own use. A list of commands can be fou
 
 ### User Commands
 
+`/jobs` **-** Base jobs command. Required for all other commands.
+
+**Permission:** `jobs.user.command`
+
 `/jobs info` **-** Shows information about your current job.
 
 **Permission:** `jobs.user.info`
